@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "chai": "^4.1.2",
+    "chai": "^4.3.3",
     "lodash": "^4.17.4",
     "mocha": "^3.5.3",
     "should": "^13.1.0",
